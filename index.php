@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>file baru</h1>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores placeat voluptate dolorem quibusdam. Hic, repudiandae quae. Vitae in numquam sequi.</p>
 </body>
 </html>
